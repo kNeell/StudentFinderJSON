@@ -1,0 +1,138 @@
+
+
+[
+  {
+    "firstName": "Fred",
+    "lastName": "Thompson",
+    "gpa": 3.2,
+    "age": 12,
+    "enrolled": true,
+    "schedule":[
+      {
+        "ClassName": "Art",
+        "ClassDay":"Monday",
+        "CourseNumber":"Art-101"
+      },
+      {
+        "ClassName": "History",
+        "ClassDay":"Wednesday",
+        "CourseNumber":"Hist-101"
+      }
+    ]
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Wilson",
+    "gpa": 3.0,
+    "age": 12,
+    "enrolled": true,
+    "schedule":[
+      {
+        "ClassName": "Art",
+        "ClassDay":"Monday",
+        "CourseNumber":"Art-101"
+      },
+      {
+        "ClassName": "History",
+        "ClassDay":"Wednesday",
+        "CourseNumber":"Hist-101"
+      }
+    ]
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Nossiton",
+    "gpa": 2.2,
+    "age": 23,
+    "enrolled": false,
+    "schedule":[
+      {
+        "ClassName": "Art",
+        "ClassDay":"Monday",
+        "CourseNumber":"Art-101"
+      },
+      {
+        "ClassName": "History",
+        "ClassDay":"Wednesday",
+        "CourseNumber":"Hist-101"
+      }
+    ]
+  },
+  {
+    "firstName": "Teresa",
+    "lastName": "Friedman",
+    "gpa": 4.2,
+    "age": 45,
+    "enrolled": false,
+    "schedule":[
+      {
+        "ClassName": "Art",
+        "ClassDay":"Monday",
+        "CourseNumber":"Art-101"
+      },
+      {
+        "ClassName": "History",
+        "ClassDay":"Wednesday",
+        "CourseNumber":"Hist-101"
+      }
+    ]
+  },
+  {
+    "firstName": "Tiffany",
+    "lastName": "Fredrickson",
+    "gpa": 1.2,
+    "age": 31,
+    "enrolled": true,
+    "schedule":[
+      {
+        "ClassName": "Art",
+        "ClassDay":"Monday",
+        "CourseNumber":"Art-101"
+      },
+      {
+        "ClassName": "History",
+        "ClassDay":"Monday",
+        "CourseNumber":"Hist-101"
+      }
+    ]
+  },
+  {
+    "firstName": "Janet",
+    "lastName": "Jeffries",
+    "gpa": 3.2,
+    "age": 3,
+    "enrolled": false,
+    "schedule":[
+      {
+        "ClassName": "Art",
+        "ClassDay":"Monday",
+        "CourseNumber":"Art-101"
+      },
+      {
+        "ClassName": "History",
+        "ClassDay":"Wednesday",
+        "CourseNumber":"Hist-101"
+      }
+    ]
+  },
+  {
+    "firstName": "Jeff",
+    "lastName": "Alberts",
+    "gpa": 2.6,
+    "age": 35,
+    "enrolled": false,
+    "schedule":[
+      {
+        "ClassName": "Math",
+        "ClassDay":"Monday",
+        "CourseNumber":"Art-101"
+      },
+      {
+        "ClassName": "Geometry",
+        "ClassDay":"Tuesday",
+        "CourseNumber":"Math-101"
+      }
+    ]
+  }
+]
+
